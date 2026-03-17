@@ -1,17 +1,17 @@
-## smlssocks-lp
+# smlssocks-lp
 
-## Overview
+# Overview
 
 This is a landing page developed at my previous company.
 
 
 
-## Purpose
+# Purpose
 
 This landing page is designed for seamless socks aimed at people with sensory sensitivities.
 It focuses on accessibility and clarity across different devices.
 
-## Challenge
+# Challenge
 
 ## 1. Design inconsistency
 
@@ -25,7 +25,7 @@ Frequent iterations were required to improve visual balance.
 
 We focused on accessibility-aware layout and clear structure to enhance readability across devices.
 
-## Technologies
+# Technologies
 
 - HTML
 
