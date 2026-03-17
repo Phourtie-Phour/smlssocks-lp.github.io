@@ -13,13 +13,13 @@ It focuses on accessibility and clarity across different devices.
 
 ## Challenge
 
-## Design inconsistency
+## 1. Design inconsistency
 
 The initial design images did not perfectly match the actual layout dimensions, which caused minor inconsistencies.
 
 To resolve this, we carefully followed the design, repeatedly adjusted the layout, and collaborated with the design team to refine alignment and spacing.
 
-## Visual balance adjustments
+## 2. Visual balance adjustments
 
 Frequent iterations were required to improve visual balance.
 
