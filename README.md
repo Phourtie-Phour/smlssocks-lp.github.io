@@ -2,32 +2,63 @@
 
 # Overview
 
-This is a landing page developed at my previous company.
+This landing page was developed at my previous company for a sensory-friendly seamless socks product.
+It emphasizes accessibility, clarity, and a responsive layout across devices.
+
+# My Responsibilities
+
+- Implemented the landing page based on design specifications
+
+- Adjusted layout, spacing, and alignment to match design intent
+
+- Handled multiple revisions based on feedback
+
+- Ensured responsive design across desktop and mobile devices
+
+- Collaborated with designers for UI improvements and clarification
+
+# Key Points
+- Focused on readability and accessibility for users with sensory sensitivities
+- Built a clean and consistent layout while maintaining design accuracy
+- Adapted design to real-world implementation constraints
+
+# Challenges & Approach
+
+## Design vs Implementation Gap
+
+The provided design images did not perfectly align with the actual layout.
+
+### Approach
+
+- Carefully analyzed spacing and proportions
+
+- Iteratively adjusted layout with CSS
+
+- Communicated with designers to refine alignment and spacing
+
+## Frequent Revisions
+
+Multiple adjustments were requested to improve visual balance and clarity.
+
+- Responded quickly to requests
+
+- Improved layout structure for readability
+
+- Ensured consistency across devices
 
 
-
-# Purpose
-
-This landing page is designed for seamless socks aimed at people with sensory sensitivities.
-It focuses on accessibility and clarity across different devices.
-
-# Challenge
-
-## 1. Design inconsistency
-
-The initial design images did not perfectly match the actual layout dimensions, which caused minor inconsistencies.
-
-To resolve this, we carefully followed the design, repeatedly adjusted the layout, and collaborated with the design team to refine alignment and spacing.
-
-## 2. Visual balance adjustments
-
-Frequent iterations were required to improve visual balance.
-
-We focused on accessibility-aware layout and clear structure to enhance readability across devices.
 
 # Technologies
 
 - HTML
 
 - CSS
+
+# What I learned
+
+- How to adapt designs to real-world constraints
+
+- Effective communication with designers
+
+- Balancing design accuracy with practical implementation
 
